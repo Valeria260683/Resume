@@ -1,3 +1,3 @@
 # Мое Резюме 
 ## Результат Вы можете посмотреть тут 
-[Моя первая работа на HTML & CSS](https://github.com/Valeria260683/Resume)
+[Моя первая работа на HTML & CSS](https://valeria260683.github.io/Resume/)
